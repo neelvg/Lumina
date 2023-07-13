@@ -10,10 +10,9 @@ Lumina is a YouTube automation software that uses AI, ML, and scripts to automat
 * Creating video thumbnails
 * Uploading videos to YouTube
 
-Lumina also has two control panels:
+Lumina also has auto control panels:
 
-* The auto control panel allows you to automate all of the tasks listed above.
-* The manual control panel allows you to manually control the software.
+* allows you to automate all of the tasks listed above.
 
 Lumina also integrates with YouTube Studio, so you can view your analytics and monetization data in one place.
 
@@ -28,7 +27,7 @@ Finally, Lumina uses Bard (Google AI) to research low-competition, high-demand t
 * Edit videos
 * Create video thumbnails
 * Upload videos to YouTube
-* Two control panels: auto and manual
+* auto control panels
 * Integration with YouTube Studio
 * Use Bard (Google AI) to research topics
 
